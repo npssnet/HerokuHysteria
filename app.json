@@ -25,7 +25,7 @@
     },
     "auth_str": {
       "description": "认证口令",
-      "value": ""
+      "value": "password"
     }
   },
   "website": "https://github.com/yuehen7/HerokuHysteria",
